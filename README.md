@@ -7,7 +7,7 @@ Viernes 16 de Enero
 
 <img width="200" height="444" alt="Screenshot_20260116_164105" src="https://github.com/user-attachments/assets/514b3c74-1c0a-4e66-a6a3-275b42d040eb" />
 
-#Country Info App
+# Country Info App
 
 <img width="108" height="240" alt="Screenshot_20260123_102259" src="https://github.com/user-attachments/assets/ae314c08-3647-44b5-b281-823a593e06ee" />
 
